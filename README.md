@@ -1,7 +1,7 @@
 <!-- README.md با رنگ‌بندی سفارشی -->
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/5002406?v=4&size=1024" alt="Sobhan Alizadeh" />
+  <img src="https://avatars.githubusercontent.com/u/5002406?v=4&size=256" alt="Sobhan Alizadeh" />
 </div>
 
 <br/>
@@ -26,7 +26,7 @@
   <h2 style="color: #00d4ff; margin-top: 0;">⚡ Featured Project: RAG Banking Assistant</h2>
   
   <p style="color: #e6edf3; font-size: 1.05rem;">
-    <strong>Intelligent Question-Answering System for Banking</strong> — 
+    <strong style="color:#fff">Intelligent Question-Answering System for Banking</strong> — 
     <a href="https://sobhanalizadeh.github.io/Rag_Banking_Assistance/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🔗 Live Demo & Source Code</a>
   </p>
   
@@ -42,7 +42,7 @@
 ---
 
 <!-- بخش تمرکز فعلی با کارت‌های رنگی -->
-<h2 style="color: #f0e6d0;">🔭 What I'm currently focused on</h2>
+<h2 style="color: #000;">🔭 What I'm currently focused on</h2>
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 10px; background: transparent;">
   <tr>
@@ -68,7 +68,7 @@
 ---
 
 <!-- جدول مهارت‌ها با هدرهای رنگی -->
-<h2 style="color: #f0e6d0;">🛠️ My Tech Stack</h2>
+<h2 style="color: #000;">🛠️ My Tech Stack</h2>
 
 <table style="width: 100%; border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
   <thead>
