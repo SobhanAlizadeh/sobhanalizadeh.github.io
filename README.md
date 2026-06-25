@@ -1,7 +1,7 @@
 <!-- README.md با رنگ‌بندی سفارشی -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sobhan+Alizadeh;Data+Engineer;AI+Practitioner;MLOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://avatars.githubusercontent.com/u/5002406?v=4&size=1024" alt="Sobhan Alizadeh" />
 </div>
 
 <br/>
