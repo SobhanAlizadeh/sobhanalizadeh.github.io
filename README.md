@@ -1,116 +1,178 @@
-<!-- README.md با رنگ‌بندی سفارشی -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:2563EB&text=Sobhan%20Alizadeh&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=AI%20Engineer%20•%20Data%20Engineer%20•%20MLOps&descAlignY=60&animation=fadeIn" />
+</p>
+<h1 align="center">
+Hi 👋 I'm Sobhan Alizadeh
+</h1>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/5002406?v=4&size=256" alt="Sobhan Alizadeh" />
-</div>
+<h3 align="center">
+Building Production AI Systems from Data to Deployment
+</h3>
+<p align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Building+Production+AI+Systems"/>
 
-<!-- کادر معرفی با گرادیان و سایه -->
-<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 20px; border: 1px solid #30363d; box-shadow: 0 8px 32px rgba(0,0,0,0.5); margin-bottom: 20px;">
-  
-  <p style="font-size: 1.1rem; line-height: 1.8; color: #c9d1d9; text-align: center;">
-    I build the <strong style="color: #58a6ff;">bridge</strong> between raw, chaotic data and intelligent, production-ready AI systems. 
-    With a strong foundation in <strong style="color: #f0883e;">data engineering</strong> and a passion for 
-    <strong style="color: #d2a8ff;">machine learning</strong>, I design scalable pipelines that don't just move data, 
-    but transform it into actionable insights and predictive power.
-  </p>
+</p>
+## 🚀 About Me
 
-</div>
+I'm passionate about building intelligent systems that solve real-world problems.
 
----
+My focus is on designing scalable AI applications—from robust data pipelines and machine learning models to production-ready MLOps infrastructure.
 
-<!-- بخش پروژه ویژه با رنگ برجسته -->
-<div style="background: linear-gradient(135deg, #0d2b45, #1a1a2e); padding: 20px; border-radius: 16px; border-left: 6px solid #00d4ff; margin: 25px 0;">
-  
-  <h2 style="color: #00d4ff; margin-top: 0;">⚡ Featured Project: RAG Banking Assistant</h2>
-  
-  <p style="color: #e6edf3; font-size: 1.05rem;">
-    <strong style="color:#fff">Intelligent Question-Answering System for Banking</strong> — 
-    <a href="https://sobhanalizadeh.github.io/Rag_Banking_Assistance/" style="color: #58a6ff; text-decoration: none; font-weight: bold;">🔗 Live Demo & Source Code</a>
-  </p>
-  
-  <p style="color: #b1bac4;">
-    A production-grade <strong style="color: #ffa657;">Retrieval-Augmented Generation (RAG)</strong> system that answers banking questions with high accuracy. 
-    Built with <strong style="color: #f0883e;">FastAPI</strong>, <strong style="color: #1f8d4d;">Streamlit</strong>, 
-    <strong style="color: #6f42c1;">Chroma</strong>, and <strong style="color: #ff6b6b;">OpenRouter</strong>. 
-    Includes MLflow, Docker Compose, and full test coverage — ready for production.
-  </p>
+Currently, I'm deepening my expertise in:
 
-</div>
+- 🤖 Machine Learning
+- 📊 Data Engineering
+- ⚡ Apache Spark
+- 🌊 Apache Airflow
+- 📡 Kafka
+- 🐳 Docker & Kubernetes
+- ☁️ Cloud & MLOps
 
----
+## 🔭 Current Focus
 
-<!-- بخش تمرکز فعلی با کارت‌های رنگی -->
-<h2 style="color: #000;">🔭 What I'm currently focused on</h2>
+- Building scalable ETL & ELT pipelines
+- Production-ready Retrieval-Augmented Generation (RAG)
+- Deploying ML models with Docker & Kubernetes
+- Real-time AI systems using Kafka
+- MLOps with MLflow & Kubeflow
 
-<table style="width: 100%; border-collapse: separate; border-spacing: 10px; background: transparent;">
-  <tr>
-    <td style="background: #0d1117; padding: 15px; border-radius: 12px; border: 1px solid #30363d; text-align: center;">
-      <span style="color: #ffa657; font-size: 1.5rem;">⚙️</span><br/>
-      <span style="color: #e6edf3;">ETL/ELT pipelines with <strong style="color: #f0883e;">Airflow</strong> & <strong style="color: #e36209;">Spark</strong></span>
-    </td>
-    <td style="background: #0d1117; padding: 15px; border-radius: 12px; border: 1px solid #30363d; text-align: center;">
-      <span style="color: #58a6ff; font-size: 1.5rem;">🐳</span><br/>
-      <span style="color: #e6edf3;">Deploying ML with <strong style="color: #0db7ed;">Docker</strong>, <strong style="color: #326ce5;">K8s</strong> & <strong style="color: #ff6b6b;">MLflow</strong></span>
-    </td>
-    <td style="background: #0d1117; padding: 15px; border-radius: 12px; border: 1px solid #30363d; text-align: center;">
-      <span style="color: #d2a8ff; font-size: 1.5rem;">📡</span><br/>
-      <span style="color: #e6edf3;"><strong style="color: #ff6b6b;">Streaming data</strong> (Kafka) & <strong style="color: #00d4ff;">real-time AI</strong></span>
-    </td>
-  </tr>
-</table>
+> **"Great AI doesn't start with models. It starts with great data."**
 
-<blockquote style="background: #0d1117; padding: 15px 20px; border-radius: 12px; border-left: 6px solid #f0883e; color: #c9d1d9; font-style: italic; font-size: 1.05rem;">
-  💡 <strong style="color: #f0883e;">My Core Belief:</strong> "A model is only as good as the data that feeds it. Great AI starts with great data engineering."
-</blockquote>
+## 🌐 Connect with Me
 
----
+<p align="left">
 
-<!-- جدول مهارت‌ها با هدرهای رنگی -->
-<h2 style="color: #000;">🛠️ My Tech Stack</h2>
+<a href="https://github.com/sobhanalizadeh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<table style="width: 100%; border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-  <thead>
-    <tr>
-      <th style="background: #1f6feb; color: white; padding: 12px; text-align: center; font-size: 1.1rem;">📦 Data Engineering</th>
-      <th style="background: #d2a8ff; color: #0d1117; padding: 12px; text-align: center; font-size: 1.1rem;">🧠 AI / Machine Learning</th>
-      <th style="background: #f0883e; color: white; padding: 12px; text-align: center; font-size: 1.1rem;">☁️ MLOps & Cloud</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background: #0d1117;">
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Python, SQL</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">PyTorch, TensorFlow</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Docker, Kubernetes</td>
-    </tr>
-    <tr style="background: #161b22;">
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Apache Spark</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Scikit-learn, XGBoost</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">MLflow, Kubeflow</td>
-    </tr>
-    <tr style="background: #0d1117;">
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Apache Airflow</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">NLP (Hugging Face)</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">AWS/GCP</td>
-    </tr>
-    <tr style="background: #161b22;">
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Kafka, ETL/ELT</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Computer Vision (OpenCV)</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Git, CI/CD</td>
-    </tr>
-    <tr style="background: #0d1117;">
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Data Warehousing</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Model Evaluation & Tuning</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">Linux, Bash</td>
-    </tr>
-  </tbody>
-</table>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sobhan2alizadeh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sobhanalizadeh&label=Profile%20Views&color=2563EB&style=flat"/>
+
+</p>
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,cpp"/>
+</p>
+
+### Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=apacheairflow,apachespark,kafka"/>
+</p>
 
 ---
 
-<!-- بخش آمار با پس‌زمینه تیره -->
-<div style="background: #0d1117; padding: 20px; border-radius: 16px; border: 1px solid #30363d; margin-top: 20px; text-align: center;">
-  <h2 style="color: #f0e6d0;">📈 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=sobhanalizadeh&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
-</div>
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+<p>
+
+🤗 Hugging Face • Scikit-Learn • XGBoost • OpenCV
+
+</p>
+
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+---
+
+### MLOps & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git"/>
+</p>
+
+---
+
+### Cloud
+
+<p>
+
+☁️ AWS • Google Cloud Platform
+
+</p>
+# 🌟 Featured Projects
+
+## 🧠 RAG Banking Assistant
+
+Production-ready Retrieval-Augmented Generation system for banking question answering.
+
+### Highlights
+
+- 🔹 FastAPI REST API
+- 🔹 Streamlit UI
+- 🔹 Chroma Vector Database
+- 🔹 OpenRouter LLM
+- 🔹 Docker Compose
+- 🔹 MLflow
+- 🔹 Unit Testing
+- 🔹 Evaluation with RAGAS
+
+🔗 **Live Demo**
+
+https://sobhanalizadeh.github.io/Rag_Banking_Assistance/
+
+🔗 **Repository**
+
+https://github.com/sobhanalizadeh/Rag_Banking_Assistance
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sobhanalizadeh&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanalizadeh&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sobhanalizadeh&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhanalizadeh&theme=github-dark&hide_border=true"/>
+
+</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sobhanalizadeh/sobhanalizadeh/output/github-contribution-grid-snake.svg"/>
+
+</p>
+<p align="center">
+  Built with ❤️ by Sobhan Alizadeh  
+</p>
