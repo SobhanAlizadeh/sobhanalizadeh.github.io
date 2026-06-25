@@ -4,7 +4,23 @@
 
 I build the **bridge** between raw, chaotic data and intelligent, production-ready AI systems. With a strong foundation in data engineering and a passion for machine learning, I design scalable pipelines that don't just move data, but transform it into actionable insights and predictive power.
 
-**🔭 What I'm currently focused on:**
+---
+
+### ⚡ Featured Project: RAG Banking Assistant
+
+> **Intelligent Question-Answering System for Banking** | **[Live Demo & Source Code](https://sobhanalizadeh.github.io/Rag_Banking_Assistance/)**
+
+This is a production-grade **Retrieval-Augmented Generation (RAG)** system that answers banking-related questions with high accuracy. It combines:
+- **FastAPI** for a secure, high-performance backend.
+- **Streamlit** for an interactive and user-friendly chat interface.
+- **Chroma** for efficient vector search over banking documents.
+- **OpenRouter** for generating precise, context-aware answers.
+
+**What makes it special:** It's not just a demo. It includes MLflow for experiment tracking, Docker Compose for easy deployment, and full test coverage. This project showcases my ability to build end-to-end AI systems that are ready for production.
+
+---
+
+### 🔭 What I'm currently focused on:
 - Designing end-to-end ETL/ELT pipelines using **Apache Airflow** and **Spark**.
 - Deploying and scaling ML models with **Docker**, **Kubernetes**, and **MLflow**.
 - Exploring the intersection of **streaming data (Kafka)** and **real-time AI**.
@@ -29,5 +45,5 @@ I build the **bridge** between raw, chaotic data and intelligent, production-rea
 
 ---
 
-### 📈 My GitHub Stats (Optional - if you want to show activity)
+### 📈 My GitHub Stats
 [![Sobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobhanalizadeh&show_icons=true&theme=radical)](https://github.com/sobhanalizadeh)
