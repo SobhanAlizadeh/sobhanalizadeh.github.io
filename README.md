@@ -45,7 +45,7 @@ Currently, I'm deepening my expertise in:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/">
+<a href="https://linkedin.com/in/sobhan-alizadeh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
