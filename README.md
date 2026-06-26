@@ -130,13 +130,14 @@ Production-ready Retrieval-Augmented Generation system for banking question answ
 - 🔹 MLflow
 - 🔹 Unit Testing
 - 🔹 Evaluation with RAGAS
-
+<p>
 🔗 **Live Demo**
-<a href="https://github.com/sobhanalizadeh](https://sobhanalizadeh.github.io/Rag_Banking_Assistance/">
+<a href="https://sobhanalizadeh.github.io/Rag_Banking_Assistance/">
 https://sobhanalizadeh.github.io/Rag_Banking_Assistance/
 </a>
+  </p>
 🔗 **Repository**
-<a href="https://github.com/sobhanalizadeh](https://github.com/sobhanalizadeh/Rag_Banking_Assistance">
+<a href="https://github.com/sobhanalizadeh/Rag_Banking_Assistance">
 https://github.com/sobhanalizadeh/Rag_Banking_Assistance
 </a>
 
