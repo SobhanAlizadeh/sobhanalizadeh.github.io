@@ -10,7 +10,7 @@ Building Production AI Systems from Data to Deployment
 </h3>
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Building+Production+AI+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Building+Production+AI+Systems"/>
 
 </p>
 ## 🚀 About Me
@@ -23,8 +23,6 @@ Currently, I'm deepening my expertise in:
 
 - 🤖 Machine Learning
 - 📊 Data Engineering
-- ⚡ Apache Spark
-- 🌊 Apache Airflow
 - 📡 Kafka
 - 🐳 Docker & Kubernetes
 - ☁️ Cloud & MLOps
@@ -47,7 +45,7 @@ Currently, I'm deepening my expertise in:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -66,7 +64,7 @@ Currently, I'm deepening my expertise in:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,bash,php"/>
 </p>
 
 ### Data Engineering
@@ -76,7 +74,7 @@ Currently, I'm deepening my expertise in:
 </p>
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=apacheairflow,apachespark,kafka"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/>
 </p>
 
 ---
@@ -84,12 +82,12 @@ Currently, I'm deepening my expertise in:
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
 </p>
 
 <p>
-
-🤗 Hugging Face • Scikit-Learn • XGBoost • OpenCV
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
+🤗 Hugging Face •  XGBoost • OpenCV
 
 </p>
 
@@ -98,7 +96,7 @@ Currently, I'm deepening my expertise in:
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,laravel"/>
 </p>
 
 ---
@@ -106,7 +104,7 @@ Currently, I'm deepening my expertise in:
 ### MLOps & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,cloudflare"/>
 </p>
 
 ---
@@ -114,6 +112,7 @@ Currently, I'm deepening my expertise in:
 ### Cloud
 
 <p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions,linux,git"/>
 
 ☁️ AWS • Google Cloud Platform
 
@@ -168,11 +167,7 @@ https://github.com/sobhanalizadeh/Rag_Banking_Assistance
 </p>
 ## 🐍 Contribution Snake
 
-<p align="center">
 
-<img src="https://raw.githubusercontent.com/sobhanalizadeh/sobhanalizadeh/output/github-contribution-grid-snake.svg"/>
-
-</p>
 <p align="center">
   Built with ❤️ by Sobhan Alizadeh  
 </p>
