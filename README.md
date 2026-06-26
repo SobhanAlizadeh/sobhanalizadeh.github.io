@@ -113,8 +113,6 @@ Currently, I'm deepening my expertise in:
 <p>
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions,linux,git"/>
 
-☁️ AWS • Google Cloud Platform
-
 </p>
 # 🌟 Featured Projects
 
@@ -134,12 +132,13 @@ Production-ready Retrieval-Augmented Generation system for banking question answ
 - 🔹 Evaluation with RAGAS
 
 🔗 **Live Demo**
-
+<a href="https://github.com/sobhanalizadeh](https://sobhanalizadeh.github.io/Rag_Banking_Assistance/">
 https://sobhanalizadeh.github.io/Rag_Banking_Assistance/
-
+</a>
 🔗 **Repository**
-
+<a href="https://github.com/sobhanalizadeh](https://github.com/sobhanalizadeh/Rag_Banking_Assistance">
 https://github.com/sobhanalizadeh/Rag_Banking_Assistance
+</a>
 
 ## 📊 GitHub Stats
 
