@@ -86,7 +86,6 @@ Currently, I'm deepening my expertise in:
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
 🤗 Hugging Face •  XGBoost • OpenCV
 
 </p>
