@@ -1,5 +1,9 @@
 title: Sobhan Alizadeh Offical Page
 description: Data Engineer & AI Developer | Turning raw data into intelligent decisions. I architect scalable data pipelines and deploy ML models that actually work in production. Let's build something smart.
+url: "https://sobhanalizadeh.github.io"
+baseurl: ""
+
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -15,4 +19,7 @@ defaults:
 
 # Social
 social:
-  github: sobhanalizadeh
+  name: Sobhan Alizadeh
+  links:
+    - https://github.com/sobhanalizadeh
+    - https://www.linkedin.com/in/sobhan-alizadeh
