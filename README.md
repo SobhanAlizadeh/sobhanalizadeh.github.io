@@ -140,7 +140,40 @@ https://sobhanalizadeh.github.io/Rag_Banking_Assistance/
 <a href="https://github.com/sobhanalizadeh/Rag_Banking_Assistance">
 https://github.com/sobhanalizadeh/Rag_Banking_Assistance
 </a>
+---
 
+## 🛡️ Fraud Detection Platform
+
+Production-ready end-to-end machine learning platform for real-time fraud detection with a complete MLOps workflow, model monitoring, explainability, and interactive dashboard.
+
+### Highlights
+
+- 🔹 End-to-End Machine Learning Pipeline
+- 🔹 FastAPI REST API
+- 🔹 Real-time Fraud Prediction
+- 🔹 Feature Engineering Pipeline
+- 🔹 Model Explainability (SHAP)
+- 🔹 MLflow Experiment Tracking
+- 🔹 Docker & Docker Compose
+- 🔹 Prometheus & Grafana Monitoring
+- 🔹 PostgreSQL Database
+- 🔹 Interactive Dashboard
+- 🔹 CI/CD with GitHub Actions
+- 🔹 Production-ready Architecture
+
+<p>
+🔗 <strong>Live Demo</strong><br>
+<a href="https://sobhanalizadeh.github.io/Fraud-Detection-Platform/">
+https://sobhanalizadeh.github.io/Fraud-Detection-Platform/
+</a>
+</p>
+
+<p>
+🔗 <strong>Repository</strong><br>
+<a href="https://github.com/sobhanalizadeh/Fraud-Detection-Platform">
+https://github.com/sobhanalizadeh/Fraud-Detection-Platform
+</a>
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
